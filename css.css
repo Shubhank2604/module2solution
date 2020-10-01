@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  background-color:tomato;
+
 }
 h1 
 {
@@ -8,8 +10,8 @@ h1
 }
 .one
 {
-  background-color: #DEB887;
-  border: 2px solid grey;
+  background-color: blue;
+  border: 2px solid white;
   margin: 10px;
 }
 section
@@ -20,6 +22,10 @@ section
   text-align: center;
   font-size: 23px;
   position: relative;
+}
+
+.title {
+  color: red;
 }
 .c1 section
 {
